@@ -26,11 +26,25 @@ that included this aspect of assesment, hence that being the focus of the
 analysis here. The final project will consist of three sections; part one being
 the mouse tracking module, part two being the narrative choice-based game, and
 part three being the analysis of the data collected from a study of players
-making choices tracked by part one during play of part two.
+making choices tracked by part one during play of part two. The game and
+tracking are planned to be implemented through use of the module
+[`pygame`](https://www.pygame.org/docs/).
 
 ## Literature Review
 
 TODO (10 source minimum, with 5 of those being published peer-reviewed articles): Conduct literature review by describing relevant work related to the project and hence providing an overview of the state of the art in the area of the project. This section serves to contextualize the study within the existing body of literature, presenting a thorough review of relevant prior research and scholarly contributions. In clear and meaningful language, this section aims to demonstrate the problems, gaps, controversies, or unanswered questions that are associated with the current understanding of the topic. In addition, this section serves to highlight the current study's unique contribution to the field. By summarizing and critiquing existing works, this section provides a foundation for readers to appreciate the novelty and significance of the study in relation to the broader academic discourse. The "Literature Review" section further (in detail) contributes to the `why is the project important?` question.
+
+Articles:
+
+- [Predicting choice behaviour in economic games using gaze data encoded as scanpath images](https://pubmed.ncbi.nlm.nih.gov/36959330/)
+
+- [Eye Movements in Strategic Choice](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4959529/)
+
+- [Complexity, Attention, and Choice in Games Under Time Constraints: A Process Analysis](https://psycnet.apa.org/fulltext/2018-43611-001.pdf?auth_token=f7f4cc5a510c0e2bdeeff4aa3156b8e34ecf74b4&returnUrl=https%3A%2F%2Fpsycnet.apa.org%2Frecord%2F2018-43611-001)
+
+- [Multiagent Narrative Experience Management as Story Graph Pruning](https://allegheny.summon.serialssolutions.com/#!/search/document?ho=t&include.ft.matches=f&fvf=ContentType,Journal%20Article,f%7CContentType,Paper,f%7CContentType,Book%20%2F%20eBook,f%7CSubjectTerms,game%20theory,f%7CSubjectTerms,computer%20science,f%7CSubjectTerms,computer%20science%20and%20game%20theory,f%7CLanguage,English,f%7CSubjectTerms,choice%20behavior,f%7CSubjectTerms,science%20%26%20technology,f%7CDiscipline,computer%20science,f%7CSubjectTerms,computer%20science%5C,%20information%20systems,f%7CSubjectTerms,computer%20science%5C,%20interdisciplinary%20applications,f&l=en&searchscope=All&q=(choice)%20AND%20(narrative%20game)&id=FETCHMERGED-LOGICAL-c207t-6cce8e1343725519f4918b4ee2e60170ac905accddb2ed1f953689e25d79132c2)
+
+- [Storyplaying : Agency and Narrative in Video Games](https://web.p.ebscohost.com/ehost/detail/detail?vid=3&sid=c603769a-90c7-4ab7-9191-f57721409754%40redis&bdata=JkF1dGhUeXBlPWlwLHNoaWImc2l0ZT1laG9zdC1saXZl#db=e000xna&AN=641742)
 
 ## Prototype
 
