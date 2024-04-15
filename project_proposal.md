@@ -8,7 +8,7 @@
 
 ## Major: Former CS Major
 
-## Project Title: Mouse Movement Choice Analysis
+## Project Title: Choice Analysis Through Mouse Movement Data 
 
 ---
 
