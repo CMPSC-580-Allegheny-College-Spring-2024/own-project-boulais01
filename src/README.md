@@ -12,6 +12,10 @@ TODO: Outline the  main technical features of your prototype.
 
 TODO: Include the software and hardware needed to run your prototype. Be sure to specify the  versions of software used in your prototype.
 
+Software Dependencies:
+- Python, version TODO
+- Poetry, version TODO
+
 ## Using the Prototype
 
 TODO: Provide details for how to run your artifact. Include specific commands and step by step instructions.
