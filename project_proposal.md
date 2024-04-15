@@ -2,23 +2,31 @@
 
 ## Semester: Spring 2024
 
-This document is to contain your project proposal. __As you complete each of the below sections in this document, please be sure to remove all preamble text so that it does not appear in your work.__
+## GitHub Handle: boulais01
 
-## GitHub Handle: Add Your Name Here
+## Name: Mordred Boulais
 
-## Name: Add Your Name Here
+## Major: Former CS Major
 
-## Major: TODO (choose: CS, DS, INFM, SE)
-
-## Project Title: Enter The Name Of Your Project
-
-TODO: Create an interesting title for your proposed project that bring a freshness and excitement to the area of this project. Consider using a name that carries some information about what the project and provides some hint at what the project does without being too wordy.
+## Project Title: Mouse Movement Choice Analysis
 
 ---
 
 ## Introduction
 
 TODO: Introduce the proposed project, providing a concise summary of the project goals, its key elements, offering the reader a quick understanding of the research's scope. The section continues to outline the main topics, research questions, hypotheses, and /or theories in a clear and meaningful language to provide a type of roadmap for the reader to navigate the forthcoming details of the project. This section also needs to motivate the project by providing context for the study, outlining the current state of knowledge in the field, and highlighting any gaps or limitations in existing research. The section serves as a foundational guide that enables the reader to grasp the context of the study, in addition to its structure, before moving into a more technically-based discussion in the following sections of the article. In short, the "Introduction" section needs to answer the `what` and `why` questions, that is `what is the project?` and `why is the project important?`
+
+The proposed project is an analysis of several factors revolving around
+decision-making in a narrative game. Specifically, this will analyze the time it
+takes to make a choice alongside the placement of the mouse, and for what
+durations, in that time frame. This is in conversation with gaze-tracking work
+of a similar nature, though the focusses for those tend more tends economic or
+ethical choices. There are not any studies published to the databases searched
+that included this aspect of assesment, hence that being the focus of the
+analysis here. The final project will consist of three sections; part one being
+the mouse tracking module, part two being the narrative choice-based game, and
+part three being the analysis of the data collected from a study of players
+making choices tracked by part one during play of part two.
 
 ## Literature Review
 
