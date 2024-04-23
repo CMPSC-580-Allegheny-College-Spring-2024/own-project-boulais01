@@ -1,13 +1,23 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/2OGTtL0Y)
+
 # Junior Seminar (CMPSC 580) Own Project Repository
 
 ## Semester: Spring 2024
 
 ## Final Proposal and Prototype DUE: by 11:59PM on 3 May 2024
 
-This repository contains materials for the proposed project of your own idea, including project proposal with references to literature related to the proposed project, and the implemented prototype with data, if relevant, and all steps necessary to run the prototype. Your project proposal is to be written in the `project_proposal.md` document and must contain all sections provided in the `project_proposal.md` template and described below.
+This repository contains materials for the proposed project of your own idea,
+including project proposal with references to literature related to the proposed
+project, and the implemented prototype with data, if relevant, and all steps
+necessary to run the prototype. Your project proposal is to be written in the
+`project_proposal.md` document and must contain all sections provided in the
+`project_proposal.md` template and described below.
 
-Please make sure that your project relates to your major. Please consult departmental faculty as necessary during their office hours about your project. The following are baseline outcomes/products expected for each major. Computer Science majors following "old" curriculum (academic bulletin prior to 2023), can select a project in CMPSC, DS, or SE areas.
+Please make sure that your project relates to your major. Please consult
+departmental faculty as necessary during their office hours about your project.
+The following are baseline outcomes/products expected for each major. Computer
+Science majors following "old" curriculum (academic bulletin prior to 2023),
+can select a project in CMPSC, DS, or SE areas.
 
 - CMPSC: integration of theory and practice OR integration of hardware and software
 - DS: dashboard that utilizes machine learning with big data (application-focused) OR a comprehensive extension of an existing framework of data analysis (method-focused)
@@ -39,19 +49,37 @@ To complete this assignment, you are required to:
 
 ### Prototype
 
-While the proof-of-concept prototype does not have to fully implement the artifact of the proposed project, it needs to contribute to the project goals and it must clearly demonstrate the feasibility of the project. The prototype needs to also produce some results that you can examine and discuss. For example, if you propose a creation of a specific software, your proof-of-concept prototype might implement some but not all of its features. Then, you can conduct evaluation (e.g., testing) and small set of experiments to produce preliminary results for discussion.
+While the proof-of-concept prototype does not have to fully implement the
+artifact of the proposed project, it needs to contribute to the project
+goals and it must clearly demonstrate the feasibility of the project.
+The prototype needs to also produce some results that you can examine and
+discuss. For example, if you propose a creation of a specific software, your
+proof-of-concept prototype might implement some but not all of its features.
+Then, you can conduct evaluation (e.g., testing) and small set of experiments
+to produce preliminary results for discussion.
 
 ### Prototype Demo Video
 
-A 1-2 minute video (in an MP4 format) demonstrating key features of your developed prototype must be  submitted by the final project deadline via the provided [Google Form](https://forms.gle/7UebHZU4CFzfTrY57).
+A 1-2 minute video (in an MP4 format) demonstrating key features of your
+developed prototype must be submitted by the final project deadline via
+the provided [Google Form](https://forms.gle/7UebHZU4CFzfTrY57).
 
 ### Project Proposal
 
-The project proposal needs to contain the following five sections: _Introduction_, _Literature Review_, _Prototype_, _Preliminary Results and Outcomes_, and _Conclusions and Future Work_. The requirements of these sections is detailed in the "Assessment" section below and additional information can  be found in the `project_proposal.md` document.
+The project proposal needs to contain the following five sections:
+_Introduction_, _Literature Review_, _Prototype_,
+_Preliminary Results and Outcomes_, and _Conclusions and Future Work_. The
+requirements of these sections is detailed in the "Assessment" section below and
+additional information can  be found in the `project_proposal.md` document.
 
 ### Project Pitch
 
-Prepare three slides on your proposed project in the [Google Slides Deck](https://docs.google.com/presentation/d/154V9XquBwLsIVaasJO24e4KglLS9eeVW5e-3mX2OjWc/edit?usp=sharing). Your presentation should describe your proposed project, its goals and motivation behind it, state-of-the-art in the area of your proposed project, your developed prototype and how it demonstrates project feasibility, and future steps to complete the proposed project.
+Prepare three slides on your proposed project in the
+[Google Slides Deck](https://docs.google.com/presentation/d/154V9XquBwLsIVaasJO24e4KglLS9eeVW5e-3mX2OjWc/edit?usp=sharing).
+Your presentation should describe your proposed project, its goals and motivation
+behind it, state-of-the-art in the area of your proposed project, your developed
+prototype and how it demonstrates project feasibility, and future steps to
+complete the proposed project.
 
 ---
 

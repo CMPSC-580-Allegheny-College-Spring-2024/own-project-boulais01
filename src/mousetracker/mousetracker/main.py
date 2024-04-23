@@ -4,6 +4,7 @@
 # choice, time to choice, mouse location at each point in time
 # perhaps a dictionary;
 # {"choice_point_or_id": {"choice": [(1sec, point), (2sec, point), ..., (Lastsec, point)]}}
+# for the bigger/final complete work it can be made into a json
 
 import pygame
 import typer
@@ -22,4 +23,4 @@ def main():
     # TODO: fix doc string
     # idea: make a simple two choice thing
     # run it here - by passing into tool main function?
-    # display output neatly
+    # display output neatly - possibly through display func
