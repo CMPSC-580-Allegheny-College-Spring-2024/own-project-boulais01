@@ -38,6 +38,18 @@ Articles:
 
 - [Predicting choice behaviour in economic games using gaze data encoded as scanpath images](https://pubmed.ncbi.nlm.nih.gov/36959330/)
 
+Summary: This study uses scanpath images created from eye-tracking software
+to investigate if the scanpath images increase the accuracy of choice
+prediction. Specifically, the study aims to achieve a better awareness of
+the uses of eye-tracking using their scanpath image generation to assess
+choices made by participants in economic games. This is examined by
+looking at which choice patterns the particpant uses(Equilibrium, Naive,
+and Coordination) alongside the length of time for making such choices
+and assessing these elements alongside the patterns displayed by the
+scanpath images. Namely, these allow the researchers to assess the
+likely thought process of the participant. Using machine learning,
+the researchers classify each scanpath.
+
 - [Eye Movements in Strategic Choice](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4959529/)
 
 - [Complexity, Attention, and Choice in Games Under Time Constraints: A Process Analysis](https://psycnet.apa.org/fulltext/2018-43611-001.pdf?auth_token=f7f4cc5a510c0e2bdeeff4aa3156b8e34ecf74b4&returnUrl=https%3A%2F%2Fpsycnet.apa.org%2Frecord%2F2018-43611-001)
