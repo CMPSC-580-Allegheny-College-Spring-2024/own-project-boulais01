@@ -53,6 +53,10 @@ predictions are assessed. Ultimately, this study was able to
 represent the decision-making processes of the participants
 through these scanpath images.
 
+This relates to this project in that the goal is to use
+mouse tracking in a similar way to the eye tracking in this
+study. 
+
 - [Eye Movements in Strategic Choice](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4959529/)
 
 - [Complexity, Attention, and Choice in Games Under Time Constraints: A Process Analysis](https://psycnet.apa.org/fulltext/2018-43611-001.pdf?auth_token=f7f4cc5a510c0e2bdeeff4aa3156b8e34ecf74b4&returnUrl=https%3A%2F%2Fpsycnet.apa.org%2Frecord%2F2018-43611-001)
