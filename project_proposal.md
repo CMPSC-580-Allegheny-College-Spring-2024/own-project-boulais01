@@ -48,7 +48,10 @@ and Coordination) alongside the length of time for making such choices
 and assessing these elements alongside the patterns displayed by the
 scanpath images. Namely, these allow the researchers to assess the
 likely thought process of the participant. Using machine learning,
-the researchers classify each scanpath.
+the researchers classify each scanpath. This is how the model
+predictions are assessed. Ultimately, this study was able to
+represent the decision-making processes of the participants
+through these scanpath images.
 
 - [Eye Movements in Strategic Choice](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4959529/)
 
