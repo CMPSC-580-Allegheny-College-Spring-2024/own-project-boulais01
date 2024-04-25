@@ -71,7 +71,9 @@ model of comparison was attribute models, for risky,
 multiattribute choices. Using a simple regression, the study
 found that the attributes, attributes and fixations, and
 transitions and attribute values had statistically
-significant correlation.
+significant correlation. With these results it was determined
+that the time and eye tracking data appeared most similar
+to accumulator models.
 
 
 - [Complexity, Attention, and Choice in Games Under Time Constraints: A Process Analysis](https://psycnet.apa.org/fulltext/2018-43611-001.pdf?auth_token=f7f4cc5a510c0e2bdeeff4aa3156b8e34ecf74b4&returnUrl=https%3A%2F%2Fpsycnet.apa.org%2Frecord%2F2018-43611-001)
