@@ -92,7 +92,7 @@ these requirements.
 
 - **General Project Requirements**
   - [ ] The project prototype and proposal were submitted on time on GitHub
-  - [ ] The pitch slides were submitted on time via the [Google Slides](https://docs.google.com/presentation/d/154V9XquBwLsIVaasJO24e4KglLS9eeVW5e-3mX2OjWc/edit?usp=sharing)
+  - [X] The pitch slides were submitted on time via the [Google Slides](https://docs.google.com/presentation/d/154V9XquBwLsIVaasJO24e4KglLS9eeVW5e-3mX2OjWc/edit?usp=sharing)
   - [ ] The prototype demo video was submitted on time via the [Google Form](https://forms.gle/7UebHZU4CFzfTrY57)
   - [ ] The GitHub repository of the project contains evidence of many commits (multiple commits each week)
     - [ ] The GitHub repository of the project has a passing build status in GitHub Actions
@@ -119,9 +119,9 @@ these requirements.
 The project proposal is required to contain the following five sections:
 
 - **Introduction Section Requirements**
-  - [ ] The introduction section clearly describes the proposed project
-  - [ ] The introduction section motivates the proposed project work
-  - [ ] The introduction section contains specific project goals and/or research questions that the project aims to answer
+  - [X] The introduction section clearly describes the proposed project
+  - [X] The introduction section motivates the proposed project work
+  - [X] The introduction section contains specific project goals and/or research questions that the project aims to answer
 
 - **Related Work Section Requirements**
   - [ ] The related work section references and describes relevant literature

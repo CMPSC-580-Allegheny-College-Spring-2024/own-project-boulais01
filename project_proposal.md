@@ -38,9 +38,47 @@ Articles:
 
 - [Predicting choice behaviour in economic games using gaze data encoded as scanpath images](https://pubmed.ncbi.nlm.nih.gov/36959330/)
 
+Summary: This study uses scanpath images created from eye-tracking software
+to investigate if the scanpath images increase the accuracy of choice
+prediction. Specifically, the study aims to achieve a better awareness of
+the uses of eye-tracking using their scanpath image generation to assess
+choices made by participants in economic games. This is examined by
+looking at which choice patterns the particpant uses(Equilibrium, Naive,
+and Coordination) alongside the length of time for making such choices
+and assessing these elements alongside the patterns displayed by the
+scanpath images. Namely, these allow the researchers to assess the
+likely thought process of the participant. Using machine learning,
+the researchers classify each scanpath. This is how the model
+predictions are assessed. Ultimately, this study was able to
+represent the decision-making processes of the participants
+through these scanpath images.
+
+This relates to this project in that the goal is to use
+mouse tracking in a similar way to the eye tracking in this
+study. 
+
 - [Eye Movements in Strategic Choice](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4959529/)
 
+Summary: This study observes the eye movements of players in
+strategic games, alongside existing reasoning models such as
+level-*k* theories and attribute models. Level-*k* theories
+studies the why of players make the choices they do. By
+comparing the eye tracking information to these theories,
+researchers could assess the correlations with each level. They
+found that trained players had different eye movements than
+untrained, and similar eye movements to each other. Another
+model of comparison was attribute models, for risky,
+multiattribute choices. Using a simple regression, the study
+found that the attributes, attributes and fixations, and
+transitions and attribute values had statistically
+significant correlation. With these results it was determined
+that the time and eye tracking data appeared most similar
+to accumulator models.
+
 - [Complexity, Attention, and Choice in Games Under Time Constraints: A Process Analysis](https://psycnet.apa.org/fulltext/2018-43611-001.pdf?auth_token=f7f4cc5a510c0e2bdeeff4aa3156b8e34ecf74b4&returnUrl=https%3A%2F%2Fpsycnet.apa.org%2Frecord%2F2018-43611-001)
+
+Summary:
+
 
 - [Multiagent Narrative Experience Management as Story Graph Pruning](https://allegheny.summon.serialssolutions.com/#!/search/document?ho=t&include.ft.matches=f&fvf=ContentType,Journal%20Article,f%7CContentType,Paper,f%7CContentType,Book%20%2F%20eBook,f%7CSubjectTerms,game%20theory,f%7CSubjectTerms,computer%20science,f%7CSubjectTerms,computer%20science%20and%20game%20theory,f%7CLanguage,English,f%7CSubjectTerms,choice%20behavior,f%7CSubjectTerms,science%20%26%20technology,f%7CDiscipline,computer%20science,f%7CSubjectTerms,computer%20science%5C,%20information%20systems,f%7CSubjectTerms,computer%20science%5C,%20interdisciplinary%20applications,f&l=en&searchscope=All&q=(choice)%20AND%20(narrative%20game)&id=FETCHMERGED-LOGICAL-c207t-6cce8e1343725519f4918b4ee2e60170ac905accddb2ed1f953689e25d79132c2)
 
