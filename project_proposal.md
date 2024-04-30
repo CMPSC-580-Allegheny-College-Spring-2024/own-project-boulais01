@@ -55,7 +55,8 @@ through these scanpath images.
 
 This relates to this project in that the goal is to use
 mouse tracking in a similar way to the eye tracking in this
-study. 
+study. It also covers decision analysis, though in a manner
+different than this project will be doing. 
 
 - [Eye Movements in Strategic Choice](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4959529/)
 
