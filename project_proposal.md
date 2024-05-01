@@ -81,7 +81,12 @@ to accumulator models.
 Summary: This study utilizes level-*k* theory to look at
 player choices in strategy games where another player is
 involved, without knowing what choice the other player will
-make, under a time constraint.
+make. Using this framework, the researchers then manipulated
+elements such as time and available information to assess
+shifts in strategy. Overall, it is found that the hypothesis
+of reduced time leading to reduced assessment of information
+and time taken to make that decision, altering strategic
+behavior from the baseline of the player.
 
 
 - [Multiagent Narrative Experience Management as Story Graph Pruning](https://allegheny.summon.serialssolutions.com/#!/search/document?ho=t&include.ft.matches=f&fvf=ContentType,Journal%20Article,f%7CContentType,Paper,f%7CContentType,Book%20%2F%20eBook,f%7CSubjectTerms,game%20theory,f%7CSubjectTerms,computer%20science,f%7CSubjectTerms,computer%20science%20and%20game%20theory,f%7CLanguage,English,f%7CSubjectTerms,choice%20behavior,f%7CSubjectTerms,science%20%26%20technology,f%7CDiscipline,computer%20science,f%7CSubjectTerms,computer%20science%5C,%20information%20systems,f%7CSubjectTerms,computer%20science%5C,%20interdisciplinary%20applications,f&l=en&searchscope=All&q=(choice)%20AND%20(narrative%20game)&id=FETCHMERGED-LOGICAL-c207t-6cce8e1343725519f4918b4ee2e60170ac905accddb2ed1f953689e25d79132c2)
