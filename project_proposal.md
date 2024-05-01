@@ -103,7 +103,14 @@ done on this project as well.
 
 - [Multiagent Narrative Experience Management as Story Graph Pruning](https://cdn.aaai.org/ojs/5229/5229-52-8327-1-10-20190920.pdf)
 
-
+Summary: This study creates a story through a narrative where
+the player and NPCs can take actions. In order to study
+refining so that the player is not limited in actions, the
+potential actions of the NPCs are limited instead.
+Specifically, the story graph is pruned by ensuring there is
+one action an NPC can take in any given possible situation.
+This is in some ways limited by following a Markovian model
+and by the small sample size.
 
 - [Storyplaying : Agency and Narrative in Video Games](https://web.p.ebscohost.com/ehost/detail/detail?vid=3&sid=c603769a-90c7-4ab7-9191-f57721409754%40redis&bdata=JkF1dGhUeXBlPWlwLHNoaWImc2l0ZT1laG9zdC1saXZl#db=e000xna&AN=641742)
 
