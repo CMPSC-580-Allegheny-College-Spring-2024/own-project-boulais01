@@ -120,7 +120,9 @@ This study is related to part two of this proposed project, as
 it concerns itself with the construction of a narrative game.
 It outlines the construction of an idealized game for a player.
 
-- [Storyplaying : Agency and Narrative in Video Games](https://web.p.ebscohost.com/ehost/detail/detail?vid=3&sid=c603769a-90c7-4ab7-9191-f57721409754%40redis&bdata=JkF1dGhUeXBlPWlwLHNoaWImc2l0ZT1laG9zdC1saXZl#db=e000xna&AN=641742)
+- [Storyplaying : Agency and Narrative in Video Games](https://www.academia.edu/103929468/Storyplaying_Agency_and_Narrative_in_Video_Games)
+
+
 
 ## Prototype
 
