@@ -101,7 +101,9 @@ alters the positioning of player choices relative to these
 theories. The study of choice is prevalent in the work being
 done on this project as well.
 
-- [Multiagent Narrative Experience Management as Story Graph Pruning](https://allegheny.summon.serialssolutions.com/#!/search/document?ho=t&include.ft.matches=f&fvf=ContentType,Journal%20Article,f%7CContentType,Paper,f%7CContentType,Book%20%2F%20eBook,f%7CSubjectTerms,game%20theory,f%7CSubjectTerms,computer%20science,f%7CSubjectTerms,computer%20science%20and%20game%20theory,f%7CLanguage,English,f%7CSubjectTerms,choice%20behavior,f%7CSubjectTerms,science%20%26%20technology,f%7CDiscipline,computer%20science,f%7CSubjectTerms,computer%20science%5C,%20information%20systems,f%7CSubjectTerms,computer%20science%5C,%20interdisciplinary%20applications,f&l=en&searchscope=All&q=(choice)%20AND%20(narrative%20game)&id=FETCHMERGED-LOGICAL-c207t-6cce8e1343725519f4918b4ee2e60170ac905accddb2ed1f953689e25d79132c2)
+- [Multiagent Narrative Experience Management as Story Graph Pruning](https://cdn.aaai.org/ojs/5229/5229-52-8327-1-10-20190920.pdf)
+
+
 
 - [Storyplaying : Agency and Narrative in Video Games](https://web.p.ebscohost.com/ehost/detail/detail?vid=3&sid=c603769a-90c7-4ab7-9191-f57721409754%40redis&bdata=JkF1dGhUeXBlPWlwLHNoaWImc2l0ZT1laG9zdC1saXZl#db=e000xna&AN=641742)
 
