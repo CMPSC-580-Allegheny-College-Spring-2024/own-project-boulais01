@@ -110,7 +110,15 @@ potential actions of the NPCs are limited instead.
 Specifically, the story graph is pruned by ensuring there is
 one action an NPC can take in any given possible situation.
 This is in some ways limited by following a Markovian model
-and by the small sample size.
+and by the small sample size. However, the results indicate
+that the hypothesis that players will find the intelligent
+story creation over the random is supported by the data
+significantly enough to indicate that a larger sample size
+will produce a similar end result.
+
+This study is related to part two of this proposed project, as
+it concerns itself with the construction of a narrative game.
+It outlines the construction of an idealized game for a player.
 
 - [Storyplaying : Agency and Narrative in Video Games](https://web.p.ebscohost.com/ehost/detail/detail?vid=3&sid=c603769a-90c7-4ab7-9191-f57721409754%40redis&bdata=JkF1dGhUeXBlPWlwLHNoaWImc2l0ZT1laG9zdC1saXZl#db=e000xna&AN=641742)
 
