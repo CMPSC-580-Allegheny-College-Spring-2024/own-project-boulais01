@@ -142,6 +142,16 @@ This is relevant to the work here, as part two will be a
 narrative game of a model similar to those described here;
 something where the player's agency affects the narrative.
 
+- [Strategic gaze: an interactive eye‑tracking study](https://www.proquest.com/docview/2500691599?accountid=8268&pq-origsite=Summon&parentSessionId=dvKX%2FlqTFnjhOWlURdGNm44oAJKN%2FhGH9YV3tOrjpc8%3D&sourcetype=Scholarly%20Journals)
+
+- [Error detection through mouse movement in an online adaptive learning environment](https://onlinelibrary.wiley.com/doi/10.1111/jcal.12483)
+
+- [Unconscious Frustration: Dynamically Assessing User Experience using Eye and Mouse Tracking](https://dl.acm.org/doi/10.1145/3591137)
+
+- [Scoping Review of Bioelectrical Signals Uses in Videogames for Evaluation Purposes](https://ieeexplore.ieee.org/document/9913957)
+
+- [Does exposure to alternative decision rules change gaze patterns and behavioral strategies in games?](https://link.springer.com/article/10.1007/s40881-019-00066-0)
+
 ## Prototype
 
 TODO: Discuss the methods of the project to be able to answer the `how` question (`how was this project completed?`). For this section, you must describe  the methodology behind your implemented prototype. The methods section in an academic research outlines the specific procedures, techniques, and methodologies employed to conduct the study, offering a transparent and replicable framework for the research. It details the resources behind the work, in terms of, for example, the design of the algorithm and the experiment(s), data collection methods, applied software libraries, required tools, the types of statistical analyses and models which are applied to ensure the rigor and validity of the study. This section provides clarity for other researchers to understand and potentially replicate the study, contributing to the overall reliability and credibility of the research findings.
