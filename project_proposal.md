@@ -129,6 +129,9 @@ Summary: This book discusses Future Narratives, a nodal form
 of storytelling similar to that seen in the study above. In
 this, there is a node with multiple potential mutually exclusive
 paths branching off of it, typically each being a node themself.
+In defining a Narrative as anything that aids the
+user/player/viewer in drawing connections between two or more
+events.
 
 ## Prototype
 
