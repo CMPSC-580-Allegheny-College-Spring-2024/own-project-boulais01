@@ -132,7 +132,9 @@ paths branching off of it, typically each being a node themself.
 In defining a Narrative as anything that aids the
 user/player/viewer in drawing connections between two or more
 events. Overall, this study explores the definition of Future
-Narratives in relation to video games.
+Narratives in relation to video games. In doing so, it uses
+the term *storyplaying*, which is to refer to something both
+played as a game and read as a narrative.
 
 ## Prototype
 
