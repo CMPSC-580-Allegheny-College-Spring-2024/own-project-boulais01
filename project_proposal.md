@@ -125,7 +125,10 @@ It outlines the construction of an idealized game for a player.
 (Focused on the `Introduction` and
 `Choice and Narrative in Video Games` sections in the summary)
 
-Summary: 
+Summary: This book discusses Future Narratives, a nodal form
+of storytelling similar to that seen in the study above. In
+this, there is a node with multiple potential mutually exclusive
+paths branching off of it, typically each being a node themself.
 
 ## Prototype
 
