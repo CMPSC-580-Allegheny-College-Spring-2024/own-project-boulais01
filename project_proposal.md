@@ -125,13 +125,14 @@ It outlines the construction of an idealized game for a player.
 (Focused on the `Introduction` and
 `Choice and Narrative in Video Games` sections in the summary)
 
-Summary: This book discusses Future Narratives, a nodal form
+Summary: This study discusses Future Narratives, a nodal form
 of storytelling similar to that seen in the study above. In
 this, there is a node with multiple potential mutually exclusive
 paths branching off of it, typically each being a node themself.
 In defining a Narrative as anything that aids the
 user/player/viewer in drawing connections between two or more
-events.
+events. Overall, this study explores the definition of Future
+Narratives in relation to video games.
 
 ## Prototype
 
