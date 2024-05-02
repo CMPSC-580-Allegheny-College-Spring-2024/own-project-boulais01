@@ -134,7 +134,13 @@ user/player/viewer in drawing connections between two or more
 events. Overall, this study explores the definition of Future
 Narratives in relation to video games. In doing so, it uses
 the term *storyplaying*, which is to refer to something both
-played as a game and read as a narrative.
+played as a game and read as a narrative. Overall, it is a
+look at the agency of the player and the narrative created
+in that.
+
+This is relevant to the work here, as part two will be a
+narrative game of a model similar to those described here;
+something where the player's agency affects the narrative.
 
 ## Prototype
 
