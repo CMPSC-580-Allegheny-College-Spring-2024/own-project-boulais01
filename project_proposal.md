@@ -122,6 +122,9 @@ It outlines the construction of an idealized game for a player.
 
 - [Storyplaying : Agency and Narrative in Video Games](https://www.academia.edu/103929468/Storyplaying_Agency_and_Narrative_in_Video_Games)
 
+(Focused on the `Introduction` and
+`Choice and Narrative in Video Games` sections in the summary)
+
 Summary: 
 
 ## Prototype
