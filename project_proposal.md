@@ -190,6 +190,17 @@ of this study.
 
 - [Scoping Review of Bioelectrical Signals Uses in Videogames for Evaluation Purposes](https://ieeexplore.ieee.org/document/9913957)
 
+Summary: This paper is a collection and a review of works
+done in the investigation of biolectrical signals and how
+that relates to video game players. Specifically, the
+authors find correlation between these signals and the
+activity being performed.
+
+This is a looser connection to the work here, in that it
+is focused on the biology side of things, but it is a study
+of user interaction with games, and therefore still
+somewhat relevant here.
+
 - [Does exposure to alternative decision rules change gaze patterns and behavioral strategies in games?](https://link.springer.com/article/10.1007/s40881-019-00066-0)
 
 ## Prototype
