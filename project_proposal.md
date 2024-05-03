@@ -161,6 +161,17 @@ people.
 
 - [Error detection through mouse movement in an online adaptive learning environment](https://onlinelibrary.wiley.com/doi/10.1111/jcal.12483)
 
+Summary: Unlike the above studies, this looks into mouse
+movement. Here, it is used to look at learning games, to
+assess the potential other options a student was considering
+on any given problem, which may help reveal where some
+difficulty lay. It was found that it was better for lower
+level students with simpler problems.
+
+This strongly relates to this work as it implements mouse
+tracking, though in a different environment. It provides
+some framework for what this work is.
+
 - [Unconscious Frustration: Dynamically Assessing User Experience using Eye and Mouse Tracking](https://dl.acm.org/doi/10.1145/3591137)
 
 - [Scoping Review of Bioelectrical Signals Uses in Videogames for Evaluation Purposes](https://ieeexplore.ieee.org/document/9913957)
