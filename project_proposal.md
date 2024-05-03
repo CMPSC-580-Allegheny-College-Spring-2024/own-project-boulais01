@@ -203,6 +203,17 @@ somewhat relevant here.
 
 - [Does exposure to alternative decision rules change gaze patterns and behavioral strategies in games?](https://link.springer.com/article/10.1007/s40881-019-00066-0)
 
+Summary: This is in conversation with other works
+regarding eye tracking and strategy, looking to fill in
+the gaps left in that research. Specifically, this paper
+discusses where the analysis of level-*k* theory is not
+taken, looking at the reasonings involved in the observed
+thought processes.
+
+This, as a continuation of other work discussed here,
+is involved in the tracking and assessing player choices
+aspect of this work.
+
 ## Prototype
 
 TODO: Discuss the methods of the project to be able to answer the `how` question (`how was this project completed?`). For this section, you must describe  the methodology behind your implemented prototype. The methods section in an academic research outlines the specific procedures, techniques, and methodologies employed to conduct the study, offering a transparent and replicable framework for the research. It details the resources behind the work, in terms of, for example, the design of the algorithm and the experiment(s), data collection methods, applied software libraries, required tools, the types of statistical analyses and models which are applied to ensure the rigor and validity of the study. This section provides clarity for other researchers to understand and potentially replicate the study, contributing to the overall reliability and credibility of the research findings.
