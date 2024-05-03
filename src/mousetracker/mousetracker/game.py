@@ -4,10 +4,10 @@
 
 import pygame
 
-from mousetracker import game_utils
+from mousetracker import game_utils, tracker
 from typing import Union, Generator, Tuple
 
-
+@tracker.tracker
 def game() -> Union[Generator, Tuple]:
     """Run a simple game."""
     # pygame setup
@@ -43,15 +43,15 @@ def game() -> Union[Generator, Tuple]:
         if button1 is True and mouse_x in range(540, 540+game_utils.answers1_sizes[1][0]) and mouse_y in range(100, 100+game_utils.answers1_sizes[1][1]):
             movement = pygame.mouse.get_rel()
             print(movement)
-            return ("Question 1", "Answer 1", (initial_pos[0] - movement[0], initial_pos[1] - movement[1]))
+            yield ("Question 1", "Answer 1", (initial_pos[0] - movement[0], initial_pos[1] - movement[1]))
         elif button1 is True and mouse_x in range(540, 540+game_utils.answers1_sizes[2][0]) and mouse_y in range(200, 200+game_utils.answers1_sizes[2][1]):
             movement = pygame.mouse.get_rel()
             print(movement)
-            return ("Question 1", "Answer 2", (initial_pos[0] - movement[0], initial_pos[1] - movement[1]))
+            yield ("Question 1", "Answer 2", (initial_pos[0] - movement[0], initial_pos[1] - movement[1]))
         elif button1 is True and mouse_x in range(540, 540+game_utils.answers1_sizes[3][0]) and mouse_y in range(300, 300+game_utils.answers1_sizes[3][1]):
             movement = pygame.mouse.get_rel()
             print(movement)
-            return ("Question 1", "Answer 3", (initial_pos[0] - movement[0], initial_pos[1] - movement[1]))
+            yield ("Question 1", "Answer 3", (initial_pos[0] - movement[0], initial_pos[1] - movement[1]))
 
         #screen.blit(game_utils.questions[2], (360,0))
 

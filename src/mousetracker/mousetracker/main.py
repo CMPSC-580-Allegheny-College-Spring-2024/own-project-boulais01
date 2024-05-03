@@ -10,7 +10,7 @@ import pygame
 import typer
 
 from rich.console import Console
-from mousetracker import tracker, game, processing
+from mousetracker import game, processing
 
 cli = typer.Typer()
 
@@ -24,3 +24,5 @@ def main():
     # idea: make a simple two choice thing
     # run it here - by passing into tool main function?
     # display output neatly - possibly through display func
+    game_output = game.game()
+    processing.save(game_output)
