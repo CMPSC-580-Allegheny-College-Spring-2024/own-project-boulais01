@@ -10,6 +10,7 @@ import pygame
 import typer
 
 from rich.console import Console
+from mousetracker import tracker, game, processing
 
 cli = typer.Typer()
 
@@ -18,9 +19,8 @@ console = Console()
 
 @cli.command()
 def main():
-    """Run mouse tracker with some demo game probably."""
+    """Run mouse tracker with demo game."""
     # TODO: Establish calls outline
-    # TODO: fix doc string
     # idea: make a simple two choice thing
     # run it here - by passing into tool main function?
     # display output neatly - possibly through display func

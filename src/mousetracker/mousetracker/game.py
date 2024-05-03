@@ -3,10 +3,12 @@
 # implement a simple pygame
 
 import pygame
-import game_utils
+
+from mousetracker import game_utils
+from typing import Union, Generator, Tuple
 
 
-def game():
+def game() -> Union[Generator, Tuple]:
     """Run a simple game."""
     # pygame setup
     pygame.init()
@@ -22,7 +24,7 @@ def game():
         for event in pygame.event.get():
             if event.type == pygame.QUIT:
                 running = False
-
+        yield pygame.mouse.get_pos()
         # fill the screen with a color to wipe away anything from last frame
         screen.fill("purple")
 
