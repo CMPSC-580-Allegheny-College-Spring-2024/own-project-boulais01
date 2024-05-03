@@ -174,7 +174,19 @@ some framework for what this work is.
 
 - [Unconscious Frustration: Dynamically Assessing User Experience using Eye and Mouse Tracking](https://dl.acm.org/doi/10.1145/3591137)
 
-Summary: 
+Summary: This study uses both eye and mouse tracking to
+observe and analyze users and their experiences when
+playing a game. Primarily, the efforts were put into
+refining gaze tracking, as they had three implementations
+in affect at once for each trial. With this, it researchers
+identified page design elements that were more confusing
+or frustrating to users.
+
+This study is focused on UX, but implements both gaze
+tracking and mouse tracking, instead of one or the other.
+While this work will not use gaze tracking, the mouse
+tracking element runs parallel to the goals and findings
+of this study.
 
 - [Scoping Review of Bioelectrical Signals Uses in Videogames for Evaluation Purposes](https://ieeexplore.ieee.org/document/9913957)
 
