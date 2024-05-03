@@ -46,13 +46,10 @@ def game():
         button1 = pygame.mouse.get_pressed(num_buttons=3)[0]
         mouse_x, mouse_y = pygame.mouse.get_pos()
         if button1 is True and mouse_x in range(540, 540+ans1_size[0]) and mouse_y in range(100, 100+ans1_size[1]):
-            print(ans1_size)
             return ("Answer 1", pygame.mouse.get_rel())
         elif button1 is True and mouse_x in range(540, 540+ans2_size[0]) and mouse_y in range(200, 200+ans2_size[1]):
-            print(ans2_size)
             return ("Answer 2", pygame.mouse.get_rel())
         elif button1 is True and mouse_x in range(540, 540+ans3_size[0]) and mouse_y in range(300, 300+ans3_size[1]):
-            print(ans3_size)
             return ("Answer 3", pygame.mouse.get_rel())
 
 
