@@ -144,7 +144,20 @@ something where the player's agency affects the narrative.
 
 - [Strategic gaze: an interactive eye‑tracking study](https://www.proquest.com/docview/2500691599?accountid=8268&pq-origsite=Summon&parentSessionId=dvKX%2FlqTFnjhOWlURdGNm44oAJKN%2FhGH9YV3tOrjpc8%3D&sourcetype=Scholarly%20Journals)
 
-Summary: 
+Summary: In this study, researchers looked at how people
+made strategic decisions when they could see their partner's
+gaze path. This is in the same vein/in conversation with the
+second two papers described here, with the added element of
+awareness of the other person's gaze. Those in the group
+who saw the gaze of their partner overall had better
+results/more success than those that couldn't, with this
+added layer of information allowing them to make more
+strategic decisions.
+
+Much of the relation to the work here is highlighted as
+part of the mentioned studies above. Unlike the work here,
+the interactive elements of the games here feature other
+people.
 
 - [Error detection through mouse movement in an online adaptive learning environment](https://onlinelibrary.wiley.com/doi/10.1111/jcal.12483)
 
