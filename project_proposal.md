@@ -233,11 +233,29 @@ processing is completed with the data.
 
 ## Preliminary Results and Outcomes
 
-TODO: Discuss the outcomes of your project in this section. Depending on the project type, the presented results and outcomes will vary. In some projects, you will be asked to present a theoretical analysis, and in others your experimental study and its results. In this section, you are also to demonstrate an enhanced version of your artifact by showing its capabilities and applications, in light of the evaluation metrics for assessing the artifact
+The artifact currently demonstrates the potential
+viability of the `pygame` module in the completion
+of parts one and two of the proposed project. It
+also collects a small portion of preliminary data
+as part of that, indicating the potential executions
+of part three of the proposed project. The results
+are contained in the `json` files in the
+`src/mousetracker/data` folder, minus the `data.json`
+file that exists to show the initial draft of the
+prototype's output. Overall, the results are mostly
+the viability of the project, though the work
+on the artifact has indicated that though `pygame`
+is suitable for building a mouse tracker, it is
+less so for building a narrative game, indicating
+that it will likely have to be built in a different
+system.
 
 ## Conclusions and Future Work
 
 TODO: Summarize your work and outline future steps needed to complete to take the project to the next stage (for example, if you were to continue with this project in 600/610). You must also address ethical implications of your project, especially as pertains to the public release or use of your software or methods.
+
+The current work done on this artifact is a small
+glimpse into the work required
 
 ## References
 
