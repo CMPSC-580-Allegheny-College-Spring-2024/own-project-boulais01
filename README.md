@@ -102,7 +102,7 @@ these requirements.
   - [X] The project proposal consists of at least `2000` words
   - [X] The project proposal follows a logical flow at the level of sections,
     subsections, and individual paragraphs
-  - [ ] The project proposal includes appropriate visual aids, which fall under the broad
+  - [X] The project proposal includes appropriate visual aids, which fall under the broad
     categories of:
   * `image`
   * `figure`
@@ -111,7 +111,7 @@ these requirements.
   - [X] The project proposal highlights and explains the societal impacts and ethical
     implications of the completed research
   - [X] There are no typographical or grammatical errors in the proposal
-  - [ ] There is no extraneous text in the proposal
+  - [X] There is no extraneous text in the proposal
   - [ ] Prototype contains a README outlining its key features, software and  hardware requirements needed to use the prototype, and steps necessary to run the prototype
   - [X] Prototype works as intended
   - [X] Prototype's implementation contains appropriate documentation (comments)
