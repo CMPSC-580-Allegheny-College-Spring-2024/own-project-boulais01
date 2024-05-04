@@ -91,11 +91,11 @@ requirements and it is expected that an exceptional project will exceed
 these requirements.
 
 - **General Project Requirements**
-  - [ ] The project prototype and proposal were submitted on time on GitHub
+  - [X] The project prototype and proposal were submitted on time on GitHub
   - [X] The pitch slides were submitted on time via the [Google Slides](https://docs.google.com/presentation/d/154V9XquBwLsIVaasJO24e4KglLS9eeVW5e-3mX2OjWc/edit?usp=sharing)
   - [ ] The prototype demo video was submitted on time via the [Google Form](https://forms.gle/7UebHZU4CFzfTrY57)
   - [X] The GitHub repository of the project contains evidence of many commits (multiple commits each week)
-    - [ ] The GitHub repository of the project has a passing build status in GitHub Actions
+    - [X] The GitHub repository of the project has a passing build status in GitHub Actions
   - [X] The proposal has the correct format created through the use of Markdown and includes the sections outlined in the provided template
   - [X] The title of the project is both interesting and appropriate
   - [X] The project proposal cites at least ten references, with five references being published, peer-reviewed articles
