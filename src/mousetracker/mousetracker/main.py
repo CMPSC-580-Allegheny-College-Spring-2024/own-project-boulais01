@@ -20,9 +20,10 @@ console = Console()
 @cli.command()
 def main():
     """Run mouse tracker with demo game."""
-    # TODO: Establish calls outline
+    # Establish calls outline
     # idea: make a simple two choice thing
     # run it here - by passing into tool main function?
     # display output neatly - possibly through display func
     game_output = game.game()
-    processing.save(game_output)
+    file_save = processing.save(game_output)
+    processing.display(file_save)
