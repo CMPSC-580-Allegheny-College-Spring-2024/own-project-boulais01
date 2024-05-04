@@ -252,10 +252,33 @@ system.
 
 ## Conclusions and Future Work
 
-TODO: Summarize your work and outline future steps needed to complete to take the project to the next stage (for example, if you were to continue with this project in 600/610). You must also address ethical implications of your project, especially as pertains to the public release or use of your software or methods.
-
 The current work done on this artifact is a small
-glimpse into the work required
+glimpse into the work required to realize the full
+project proposed here. It is merely a first draft,
+much, if not all of it likely to be absent in the final
+work. There would have to be a reevaluation of the language
+and/or tool in which it is built, for example, as `pygame`
+is limited in functionality that facilitates building a
+narrative choice game. Referencing works on `itch.io` will
+help in the further research in this aspect. However the
+project then moves forward, the mouse tracker will have to
+either be extricated from the game and made to work as
+a separate program run on it, or part one becomes entwined
+with part two, reducing the versatility of that part of the
+tool but managing scope and workload to ensure the project
+is completable. From there, the data analysis section would
+be created to assess correlations and relationships between
+data regarding time and mouse placement collected.
+
+Provided that part one remains separate from part two, the
+primary ethical concern is the potential for the mouse
+tracker to be implemented without the awareness of players
+on other games built in the same system as part two. The
+separation that would benefit broader use would also be
+the element that risks abuse. There is also the fact that
+the data collection does require human trials, which will
+have to go through review from an ethics board before it
+can be completed.
 
 ## References
 
