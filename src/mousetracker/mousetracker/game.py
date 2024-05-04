@@ -12,6 +12,8 @@ def game() -> Union[Generator, Tuple]:
     """Run a simple game."""
     # pygame setup
     pygame.init()
+    q1 = False
+    q2 = False
     screen = pygame.display.set_mode((1280, 720))
     clock = pygame.time.Clock()
     running = True
@@ -28,50 +30,60 @@ def game() -> Union[Generator, Tuple]:
         screen.fill("purple")
 
         # RENDER YOUR GAME HERE
-        screen.blit(game_utils.questions[1], (360,0))
+        while q1 is False:
+            screen.blit(game_utils.questions[1], (360,0))
 
-        screen.blit(game_utils.answers1[1], (540,100))
-        screen.blit(game_utils.answers1[2], (540,200))
-        screen.blit(game_utils.answers1[3], (540,300))
-        # flip() the display to put your work on screen
-        pygame.display.flip()
+            screen.blit(game_utils.answers1[1], (540,100))
+            screen.blit(game_utils.answers1[2], (540,200))
+            screen.blit(game_utils.answers1[3], (540,300))
+            # flip() the display to put your work on screen
+            pygame.display.flip()
 
-        pygame.event.get()
-        button1 = pygame.mouse.get_pressed(num_buttons=3)[0]
-        mouse_x, mouse_y = pygame.mouse.get_pos()
-        if button1 is True and mouse_x in range(540, 540+game_utils.answers1_sizes[1][0]) and mouse_y in range(100, 100+game_utils.answers1_sizes[1][1]):
-            movement = pygame.mouse.get_rel()
-            yield ("Question 1", "Red", (initial_pos[0] - movement[0], initial_pos[1] - movement[1]))
-            pygame.event.post(pygame.event.Event(pygame.QUIT))
-        elif button1 is True and mouse_x in range(540, 540+game_utils.answers1_sizes[2][0]) and mouse_y in range(200, 200+game_utils.answers1_sizes[2][1]):
-            movement = pygame.mouse.get_rel()
-            yield ("Question 1", "Blue", (initial_pos[0] - movement[0], initial_pos[1] - movement[1]))
-            pygame.event.post(pygame.event.Event(pygame.QUIT))
-        elif button1 is True and mouse_x in range(540, 540+game_utils.answers1_sizes[3][0]) and mouse_y in range(300, 300+game_utils.answers1_sizes[3][1]):
-            movement = pygame.mouse.get_rel()
-            yield ("Question 1", "Green", (initial_pos[0] - movement[0], initial_pos[1] - movement[1]))
-            pygame.event.post(pygame.event.Event(pygame.QUIT))
+            pygame.event.get()
+            button1 = pygame.mouse.get_pressed(num_buttons=3)[0]
+            mouse_x, mouse_y = pygame.mouse.get_pos()
+            if button1 is True and mouse_x in range(540, 540+game_utils.answers1_sizes[1][0]) and mouse_y in range(100, 100+game_utils.answers1_sizes[1][1]):
+                movement = pygame.mouse.get_rel()
+                yield ("Question 1", "Red", (initial_pos[0] - movement[0], initial_pos[1] - movement[1]))
+                q1 = True
+            elif button1 is True and mouse_x in range(540, 540+game_utils.answers1_sizes[2][0]) and mouse_y in range(200, 200+game_utils.answers1_sizes[2][1]):
+                movement = pygame.mouse.get_rel()
+                yield ("Question 1", "Blue", (initial_pos[0] - movement[0], initial_pos[1] - movement[1]))
+                q1 = True
+            elif button1 is True and mouse_x in range(540, 540+game_utils.answers1_sizes[3][0]) and mouse_y in range(300, 300+game_utils.answers1_sizes[3][1]):
+                movement = pygame.mouse.get_rel()
+                yield ("Question 1", "Green", (initial_pos[0] - movement[0], initial_pos[1] - movement[1]))
+                q1 = True
 
-        #screen.blit(game_utils.questions[2], (360,0))
+        while q1 and not q2:
+            screen.fill("purple")
 
-        #screen.blit(game_utils.answers2[1], (540,100))
-        #screen.blit(game_utils.answers2[2], (540,200))
-        #screen.blit(game_utils.answers2[3], (540,300))
-        # flip() the display to put your work on screen
-        #pygame.display.flip()
+            screen.blit(game_utils.questions[2], (360,0))
 
-        #pygame.event.get()
-        #button1 = pygame.mouse.get_pressed(num_buttons=3)[0]
-        #mouse_x, mouse_y = pygame.mouse.get_pos()
-        #if button1 is True and mouse_x in range(540, 540+game_utils.answers2_sizes[1][0]) and mouse_y in range(100, 100+game_utils.answers2_sizes[1][1]):
-        #    yield ("Question 2", "Answer 1", pygame.mouse.get_rel())
-        #    pygame.event.post(pygame.QUIT)
-        #elif button1 is True and mouse_x in range(540, 540+game_utils.answers2_sizes[2][0]) and mouse_y in range(200, 200+game_utils.answers2_sizes[2][1]):
-        #    yield ("Question 2", "Answer 2", pygame.mouse.get_rel())
-        #    pygame.event.post(pygame.QUIT)
-        #elif button1 is True and mouse_x in range(540, 540+game_utils.answers2_sizes[3][0]) and mouse_y in range(300, 300+game_utils.answers2_sizes[3][1]):
-        #    yield ("Question 2", "Answer 3", pygame.mouse.get_rel())
-        #    pygame.event.post(pygame.QUIT)
+            screen.blit(game_utils.answers2[1], (540,100))
+            screen.blit(game_utils.answers2[2], (540,200))
+            screen.blit(game_utils.answers2[3], (540,300))
+            # flip() the display to put your work on screen
+            pygame.display.flip()
+
+            pygame.event.get()
+            button1 = pygame.mouse.get_pressed(num_buttons=3)[0]
+            mouse_x, mouse_y = pygame.mouse.get_pos()
+            if button1 is True and mouse_x in range(540, 540+game_utils.answers2_sizes[1][0]) and mouse_y in range(100, 100+game_utils.answers2_sizes[1][1]):
+                movement2 = pygame.mouse.get_rel()
+                yield ("Question 2", "1", (movement[0] - movement2[0], movement[1] - movement2[1]))
+                q2 = True
+                pygame.event.post(pygame.event.Event(pygame.QUIT))
+            elif button1 is True and mouse_x in range(540, 540+game_utils.answers2_sizes[2][0]) and mouse_y in range(200, 200+game_utils.answers2_sizes[2][1]):
+                movement2 = pygame.mouse.get_rel()
+                yield ("Question 2", "2", (movement[0] - movement2[0], movement[1] - movement2[1]))
+                q2 = True
+                pygame.event.post(pygame.event.Event(pygame.QUIT))
+            elif button1 is True and mouse_x in range(540, 540+game_utils.answers2_sizes[3][0]) and mouse_y in range(300, 300+game_utils.answers2_sizes[3][1]):
+                movement2 = pygame.mouse.get_rel()
+                yield ("Question 2", "3", (movement[0] - movement2[0], movement[1] - movement2[1]))
+                q2 = True
+                pygame.event.post(pygame.event.Event(pygame.QUIT))
 
         clock.tick(60)  # limits FPS to 60
 

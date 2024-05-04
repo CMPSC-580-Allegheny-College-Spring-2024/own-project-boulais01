@@ -20,12 +20,17 @@ def save(data: Generator) -> str:
     """Save data in a json."""
     format_data = {}
     count = 0
+    choiced = False
     for val in data[0]:
         if len(val) == 2:
             format_data[f"point{count}"] = val
             count += 1
         else:
-            format_data["choice"] = val
+            if choiced:
+                format_data[f"choice2"] = val
+            else:
+                format_data[f"choice1"] = val
+                choiced = True
     format_data["total_time"] = data[1]
     file_name = "data/"
     date = datetime.datetime.now()
@@ -39,6 +44,11 @@ def display(file_name: str):
     console = Console()
     with open(file_name) as json_data:
         data = json.load(json_data)
-    console.print(f"Player was on the page for {data['total_time']} seconds.")
-    console.print(f"Player's mouse traveled {data['choice'][2]} from the start point.")
-    console.print(f"Player's response to {data['choice'][0]} was {data['choice'][1]}.")
+    console.print("Overall:")
+    console.print(f"\tPlayer was on the page for {data['total_time']} seconds.")
+    console.print("\nQuestion 1:")
+    console.print(f"\tPlayer's mouse traveled {data['choice1'][2]} from the start point.")
+    console.print(f"\tPlayer's response to {data['choice1'][0]} was {data['choice1'][1]}.")
+    console.print("\nQuestion 2:")
+    console.print(f"\tPlayer's mouse traveled {data['choice2'][2]} from the start point.")
+    console.print(f"\tPlayer's response to {data['choice2'][0]} was {data['choice2'][1]}.")
