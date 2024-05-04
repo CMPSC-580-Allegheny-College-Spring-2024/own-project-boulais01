@@ -9,6 +9,7 @@ pygame.init()
 
 def tracker(game_func: callable) -> tuple:
     """Uses pygame functionality to track mouse movement."""
+    # currently just a wrapper for calculating mouse time
     def wrap(*args, **kwargs): 
         start = time.perf_counter()
         result = game_func(*args, **kwargs) 

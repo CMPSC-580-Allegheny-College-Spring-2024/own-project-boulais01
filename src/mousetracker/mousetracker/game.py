@@ -29,7 +29,7 @@ def game() -> Union[Generator, Tuple]:
         # fill the screen with a color to wipe away anything from last frame
         screen.fill("purple")
 
-        # RENDER YOUR GAME HERE
+        # render game
         while q1 is False:
             screen.blit(game_utils.questions[1], (360,0))
 
@@ -42,6 +42,7 @@ def game() -> Union[Generator, Tuple]:
             pygame.event.get()
             button1 = pygame.mouse.get_pressed(num_buttons=3)[0]
             mouse_x, mouse_y = pygame.mouse.get_pos()
+            # check that the mouse click was on an option
             if button1 is True and mouse_x in range(540, 540+game_utils.answers1_sizes[1][0]) and mouse_y in range(100, 100+game_utils.answers1_sizes[1][1]):
                 movement = pygame.mouse.get_rel()
                 yield ("Question 1", "Red", (initial_pos[0] - movement[0], initial_pos[1] - movement[1]))
@@ -55,6 +56,7 @@ def game() -> Union[Generator, Tuple]:
                 yield ("Question 1", "Green", (initial_pos[0] - movement[0], initial_pos[1] - movement[1]))
                 q1 = True
 
+        # once q1 is complete, bring up q2
         while q1 and not q2:
             screen.fill("purple")
 
@@ -92,4 +94,3 @@ def game() -> Union[Generator, Tuple]:
 
 if __name__ == "__main__":
     answer = game()
-    print(f"Player chose {answer[1]} and their mouse moved {answer[2]}")

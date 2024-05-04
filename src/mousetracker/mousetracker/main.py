@@ -6,7 +6,6 @@
 # {"choice_point_or_id": {"choice": [(1sec, point), (2sec, point), ..., (Lastsec, point)]}}
 # for the bigger/final complete work it can be made into a json
 
-import pygame
 import typer
 
 from rich.console import Console
@@ -20,10 +19,9 @@ console = Console()
 @cli.command()
 def main():
     """Run mouse tracker with demo game."""
-    # Establish calls outline
-    # idea: make a simple two choice thing
-    # run it here - by passing into tool main function?
-    # display output neatly - possibly through display func
+    # run game
+    # save file
+    # display output
     game_output = game.game()
     file_save = processing.save(game_output)
     processing.display(file_save)

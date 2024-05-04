@@ -21,6 +21,7 @@ def save(data: Generator) -> str:
     format_data = {}
     count = 0
     choiced = False
+    # iterate through the generator and distinguish elements
     for val in data[0]:
         if len(val) == 2:
             format_data[f"point{count}"] = val
@@ -32,16 +33,21 @@ def save(data: Generator) -> str:
                 format_data[f"choice1"] = val
                 choiced = True
     format_data["total_time"] = data[1]
+    # construct file name
     file_name = "data/"
     date = datetime.datetime.now()
     file_name += date.strftime("%Y-%d-%m-%H-%M-%S") + ".json"
+    # write to file
     with open(file_name, "w", encoding="utf-8") as file:
         json.dump(format_data, file, ensure_ascii=False, indent=4)
+    # return file name
     return file_name
 
 def display(file_name: str):
     """Take in a json file and display the data in a readable manner."""
+    # define a console for printing
     console = Console()
+    # get the data
     with open(file_name) as json_data:
         data = json.load(json_data)
     console.print("Overall:")
