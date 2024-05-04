@@ -296,20 +296,20 @@ can be completed.
 
 [1] Sean Anthony Byrne et al. 2023. Predicting choice behaviour in economic games using gaze data encoded as scanpath images. *Scientific reports* vol. 13,1 4722. doi:10.1038/s41598-023-31536-5
 
-[2] Neil Stewart et al. 2015. Eye Movements in Strategic Choice. *Journal of behavioral decision making* vol. 29,2-3 (2016): 137-156. doi:10.1002/bdm.1901
+[2] Neil Stewart et al. 2015. Eye Movements in Strategic Choice. *Journal of behavioral decision making* vol. 29,2-3 : 137-156. doi:10.1002/bdm.1901
 
-[3] L. Spiliopoulos, A. Ortmann, L. Zhang. 2018. Complexity, attention, and choice in games under time constraints: A process analysis. *Journal of Experimental Psychology: Learning, Memory, and Cognition*, 44(10), 1609–1640. https://doi.org/10.1037/xlm0000535
+[3] L. Spiliopoulos, A. Ortmann, and L. Zhang. 2018. Complexity, attention, and choice in games under time constraints: A process analysis. *Journal of Experimental Psychology: Learning, Memory, and Cognition*, 44(10), 1609–1640. https://doi.org/10.1037/xlm0000535
 
-[4] Stephen G. Ware, Edward T. Garcia, Alireza Shirvani, Rachelyn Farrell. 2019. Multi-Agent Narrative Experience Management as Story Graph Pruning. IEEE Transactions on Games. https://doi.org/10.1109/TG.2022.3177125
+[4] Stephen G. Ware, Edward T. Garcia, Alireza Shirvani, and Rachelyn Farrell. 2019. Multi-Agent Narrative Experience Management as Story Graph Pruning. IEEE Transactions on Games. https://doi.org/10.1109/TG.2022.3177125
 
-[5] Sebastian Domsch. 2013. Storyplaying: Agency and Narrative in Video Games. De Gruyter.
+[5] Sebastian Domsch. 2013. *Storyplaying: Agency and Narrative in Video Games*. De Gruyter.
 
-[6]
+[6] J. Hausfeld, K. von Hesler, and S. Goldlücke. 2021. Strategic Gaze: An Interactive Eye-Tracking Study. *Experimental Economics* 24, no. 1 : 177-205. https://doi.org/10.1007/s10683-020-09655-x.
 
-[7]
+[7] Susanne M. M. de Mooij, Maartje E. J. Raijmakers, Iroise Dumontheil, Natasha Z. Kirkham, and Han L. J. van der Maas. 2020. Error detection through mouse movement in an online adaptive learning environment. *J Comput Assist Learn*. 37: 242–252. https://doi.org/10.1111/jcal.12483
 
-[8]
+[8] Scott A. Stone and Craig S. Chapman. 2023. Unconscious Frustration: Dynamically Assessing User Experience using Eye and Mouse Tracking. Proc. ACM Hum.-Comput. Interact. 7, ETRA, Article 168 (May 2023), 17 pages. https://doi.org/10.1145/3591137
 
-[9]
+[9] A. Calvo-Morata, M. Freire, I. Martínez-Ortiz and B. Fernández-Manjón. 2022. Scoping Review of Bioelectrical Signals Uses in Videogames for Evaluation Purposes. IEEE Access, vol. 10, pp. 107703-107715. doi: 10.1109/ACCESS.2022.3213070.
 
-[10]
+[10] J. Zonca, G. Coricelli, and L. Polonio. 2019. Does exposure to alternative decision rules change gaze patterns and behavioral strategies in games?. J Econ Sci Assoc 5, 14–25. https://doi.org/10.1007/s40881-019-00066-0
