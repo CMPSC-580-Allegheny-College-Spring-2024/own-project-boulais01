@@ -112,7 +112,7 @@ these requirements.
     implications of the completed research
   - [X] There are no typographical or grammatical errors in the proposal
   - [X] There is no extraneous text in the proposal
-  - [ ] Prototype contains a README outlining its key features, software and  hardware requirements needed to use the prototype, and steps necessary to run the prototype
+  - [X] Prototype contains a README outlining its key features, software and  hardware requirements needed to use the prototype, and steps necessary to run the prototype
   - [X] Prototype works as intended
   - [X] Prototype's implementation contains appropriate documentation (comments)
 
