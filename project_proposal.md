@@ -32,7 +32,7 @@ The demo included will be a sample draft of mouse movement tracking in a
 
 ## Literature Review
 
-- [Predicting choice behaviour in economic games using gaze data encoded as scanpath images](https://pubmed.ncbi.nlm.nih.gov/36959330/)
+- [Predicting choice behaviour in economic games using gaze data encoded as scanpath images](https://pubmed.ncbi.nlm.nih.gov/36959330/)[1]
 
 Summary: This study uses scanpath images created from eye-tracking software
 to investigate if the scanpath images increase the accuracy of choice
@@ -54,7 +54,7 @@ mouse tracking in a similar way to the eye tracking in this
 study. It also covers decision analysis, though in a manner
 different than this project will be doing. 
 
-- [Eye Movements in Strategic Choice](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4959529/)
+- [Eye Movements in Strategic Choice](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4959529/)[2]
 
 Summary: This study observes the eye movements of players in
 strategic games, alongside existing reasoning models such as
@@ -79,7 +79,7 @@ with choices and behaviors, and uses a regression to
 analyze that. A future element of this project, the data
 analysis, will likely incorporate a similar element.
 
-- [Complexity, Attention, and Choice in Games Under Time Constraints: A Process Analysis](https://psycnet.apa.org/fulltext/2018-43611-001.pdf?auth_token=f7f4cc5a510c0e2bdeeff4aa3156b8e34ecf74b4&returnUrl=https%3A%2F%2Fpsycnet.apa.org%2Frecord%2F2018-43611-001)
+- [Complexity, Attention, and Choice in Games Under Time Constraints: A Process Analysis](https://psycnet.apa.org/fulltext/2018-43611-001.pdf?auth_token=f7f4cc5a510c0e2bdeeff4aa3156b8e34ecf74b4&returnUrl=https%3A%2F%2Fpsycnet.apa.org%2Frecord%2F2018-43611-001)[3]
 
 Summary: This study utilizes level-*k* theory to look at
 player choices in strategy games where another player is
@@ -97,7 +97,7 @@ alters the positioning of player choices relative to these
 theories. The study of choice is prevalent in the work being
 done on this project as well.
 
-- [Multiagent Narrative Experience Management as Story Graph Pruning](https://cdn.aaai.org/ojs/5229/5229-52-8327-1-10-20190920.pdf)
+- [Multiagent Narrative Experience Management as Story Graph Pruning](https://cdn.aaai.org/ojs/5229/5229-52-8327-1-10-20190920.pdf)[4]
 
 Summary: This study creates a story through a narrative where
 the player and NPCs can take actions. In order to study
@@ -116,7 +116,7 @@ This study is related to part two of this proposed project, as
 it concerns itself with the construction of a narrative game.
 It outlines the construction of an idealized game for a player.
 
-- [Storyplaying : Agency and Narrative in Video Games](https://www.academia.edu/103929468/Storyplaying_Agency_and_Narrative_in_Video_Games)
+- [Storyplaying : Agency and Narrative in Video Games](https://www.academia.edu/103929468/Storyplaying_Agency_and_Narrative_in_Video_Games)[5]
 
 (Focused on the `Introduction` and
 `Choice and Narrative in Video Games` sections in the summary)
@@ -138,7 +138,7 @@ This is relevant to the work here, as part two will be a
 narrative game of a model similar to those described here;
 something where the player's agency affects the narrative.
 
-- [Strategic gaze: an interactive eye‑tracking study](https://www.proquest.com/docview/2500691599?accountid=8268&pq-origsite=Summon&parentSessionId=dvKX%2FlqTFnjhOWlURdGNm44oAJKN%2FhGH9YV3tOrjpc8%3D&sourcetype=Scholarly%20Journals)
+- [Strategic gaze: an interactive eye‑tracking study](https://www.proquest.com/docview/2500691599?accountid=8268&pq-origsite=Summon&parentSessionId=dvKX%2FlqTFnjhOWlURdGNm44oAJKN%2FhGH9YV3tOrjpc8%3D&sourcetype=Scholarly%20Journals)[6]
 
 Summary: In this study, researchers looked at how people
 made strategic decisions when they could see their partner's
@@ -155,7 +155,7 @@ part of the mentioned studies above. Unlike the work here,
 the interactive elements of the games here feature other
 people.
 
-- [Error detection through mouse movement in an online adaptive learning environment](https://onlinelibrary.wiley.com/doi/10.1111/jcal.12483)
+- [Error detection through mouse movement in an online adaptive learning environment](https://onlinelibrary.wiley.com/doi/10.1111/jcal.12483)[7]
 
 Summary: Unlike the above studies, this looks into mouse
 movement. Here, it is used to look at learning games, to
@@ -168,7 +168,7 @@ This strongly relates to this work as it implements mouse
 tracking, though in a different environment. It provides
 some framework for what this work is.
 
-- [Unconscious Frustration: Dynamically Assessing User Experience using Eye and Mouse Tracking](https://dl.acm.org/doi/10.1145/3591137)
+- [Unconscious Frustration: Dynamically Assessing User Experience using Eye and Mouse Tracking](https://dl.acm.org/doi/10.1145/3591137)[8]
 
 Summary: This study uses both eye and mouse tracking to
 observe and analyze users and their experiences when
@@ -184,7 +184,7 @@ While this work will not use gaze tracking, the mouse
 tracking element runs parallel to the goals and findings
 of this study.
 
-- [Scoping Review of Bioelectrical Signals Uses in Videogames for Evaluation Purposes](https://ieeexplore.ieee.org/document/9913957)
+- [Scoping Review of Bioelectrical Signals Uses in Videogames for Evaluation Purposes](https://ieeexplore.ieee.org/document/9913957)[9]
 
 Summary: This paper is a collection and a review of works
 done in the investigation of biolectrical signals and how
@@ -197,7 +197,7 @@ is focused on the biology side of things, but it is a study
 of user interaction with games, and therefore still
 somewhat relevant here.
 
-- [Does exposure to alternative decision rules change gaze patterns and behavioral strategies in games?](https://link.springer.com/article/10.1007/s40881-019-00066-0)
+- [Does exposure to alternative decision rules change gaze patterns and behavioral strategies in games?](https://link.springer.com/article/10.1007/s40881-019-00066-0)[10]
 
 Summary: This is in conversation with other works
 regarding eye tracking and strategy, looking to fill in
