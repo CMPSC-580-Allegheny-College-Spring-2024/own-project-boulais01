@@ -231,6 +231,12 @@ handled through `poetry` as outlined in the prototype
 explanation in the `src` folder. As of yet, no data
 processing is completed with the data.
 
+Example game pages:
+
+![First Game Page](images/game_pg1.PNG)
+
+![Second Game Page](images/game_pg2.PNG)
+
 ## Preliminary Results and Outcomes
 
 The artifact currently demonstrates the potential
@@ -249,6 +255,11 @@ is suitable for building a mouse tracker, it is
 less so for building a narrative game, indicating
 that it will likely have to be built in a different
 system.
+
+Current terminal output example:
+
+![Example Ouput](images/example_output.PNG)
+
 
 ## Conclusions and Future Work
 
