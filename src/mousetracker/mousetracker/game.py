@@ -16,7 +16,6 @@ def game() -> Union[Generator, Tuple]:
     clock = pygame.time.Clock()
     running = True
     initial_pos = pygame.mouse.get_pos()
-    print(initial_pos)
 
     while running:
         # poll for events
