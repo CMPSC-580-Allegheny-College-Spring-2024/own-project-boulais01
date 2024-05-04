@@ -24,3 +24,5 @@ Software Dependencies:
 3. Run `poetry install`
 
 4. Run `poetry run mousetracker`
+
+5. Answer the questions within the `pygame` window by selecting one of the three options.
