@@ -108,13 +108,13 @@ these requirements.
   * `figure`
   * `table`
   * `graph`
-  - [ ] The project proposal highlights and explains the societal impacts and ethical
+  - [X] The project proposal highlights and explains the societal impacts and ethical
     implications of the completed research
   - [X] There are no typographical or grammatical errors in the proposal
   - [ ] There is no extraneous text in the proposal
   - [ ] Prototype contains a README outlining its key features, software and  hardware requirements needed to use the prototype, and steps necessary to run the prototype
   - [X] Prototype works as intended
-  - [ ] Prototype's implementation contains appropriate documentation (comments)
+  - [X] Prototype's implementation contains appropriate documentation (comments)
 
 The project proposal is required to contain the following five sections:
 
@@ -132,28 +132,28 @@ The project proposal is required to contain the following five sections:
   - [X] The related work section situates the proposed project in the broader scope
 
 - **Prototype Section Requirements**
-  - [ ] The prototype section explains the process utilized in the completed study
-  - [ ] The prototype section addresses as many of the necessary methodology used in the prototype development. For example, the following may be relevant to the project:
+  - [X] The prototype section explains the process utilized in the completed study
+  - [X] The prototype section addresses as many of the necessary methodology used in the prototype development. For example, the following may be relevant to the project:
   * `description of algorithms`
   * `programming languages`
   * `libraries`
   * `platforms`
   * `software tools`
   * `hardware`
-  - [ ] The prototype section explains how the developed proof-of-concept prototype demonstrates project feasibility (given your prototype, how can we be sure that the full artifact of the proposed project can  be successfully completed by you in two semesters)
+  - [X] The prototype section explains how the developed proof-of-concept prototype demonstrates project feasibility (given your prototype, how can we be sure that the full artifact of the proposed project can  be successfully completed by you in two semesters)
 
 - **Preliminary Results and Outcomes Section Requirements**
-  - [ ] The preliminary results and outcomes section describes how the work is validated
-  - [ ] The preliminary results and outcomes results section includes a description of experiments
+  - [X] The preliminary results and outcomes section describes how the work is validated
+  - [X] The preliminary results and outcomes results section includes a description of experiments
     such that a reader should be able to reproduce them or other results/outcomes as relevant to the prototype
-  - [ ] The preliminary results and outcomes contains at least one graph, table of data, or
+  - [X] The preliminary results and outcomes contains at least one graph, table of data, or
     some other relevant presentation of the results from the experimental study
 
 - **Conclusions and Future Work Section Requirements**
-  - [ ] The conclusions and future Work section provides a summary of the proposed research and its preliminary outcomes
-  - [ ] The conclusions and future Work section discusses the impact of the proposed research project
-  - [ ] The conclusions and future Work outlines, with sufficient depth and detail, further and future work that is necessary to fully complete the proposed project
-  - [ ] The conclusions and future Work includes an literature/evidence- or results-based appraisal of ethical issues related to the proposed research
+  - [X] The conclusions and future Work section provides a summary of the proposed research and its preliminary outcomes
+  - [X] The conclusions and future Work section discusses the impact of the proposed research project
+  - [X] The conclusions and future Work outlines, with sufficient depth and detail, further and future work that is necessary to fully complete the proposed project
+  - [X] The conclusions and future Work includes an literature/evidence- or results-based appraisal of ethical issues related to the proposed research
 
 ## GatorGrade
 
