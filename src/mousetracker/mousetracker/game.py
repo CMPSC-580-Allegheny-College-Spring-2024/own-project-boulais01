@@ -42,16 +42,16 @@ def game() -> Union[Generator, Tuple]:
         mouse_x, mouse_y = pygame.mouse.get_pos()
         if button1 is True and mouse_x in range(540, 540+game_utils.answers1_sizes[1][0]) and mouse_y in range(100, 100+game_utils.answers1_sizes[1][1]):
             movement = pygame.mouse.get_rel()
-            print(movement)
             yield ("Question 1", "Answer 1", (initial_pos[0] - movement[0], initial_pos[1] - movement[1]))
+            pygame.event.post(pygame.event.Event(pygame.QUIT))
         elif button1 is True and mouse_x in range(540, 540+game_utils.answers1_sizes[2][0]) and mouse_y in range(200, 200+game_utils.answers1_sizes[2][1]):
             movement = pygame.mouse.get_rel()
-            print(movement)
             yield ("Question 1", "Answer 2", (initial_pos[0] - movement[0], initial_pos[1] - movement[1]))
+            pygame.event.post(pygame.event.Event(pygame.QUIT))
         elif button1 is True and mouse_x in range(540, 540+game_utils.answers1_sizes[3][0]) and mouse_y in range(300, 300+game_utils.answers1_sizes[3][1]):
             movement = pygame.mouse.get_rel()
-            print(movement)
             yield ("Question 1", "Answer 3", (initial_pos[0] - movement[0], initial_pos[1] - movement[1]))
+            pygame.event.post(pygame.event.Event(pygame.QUIT))
 
         #screen.blit(game_utils.questions[2], (360,0))
 

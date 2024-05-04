@@ -11,6 +11,7 @@
 # named using date and time. 
 
 import json
+import datetime
 
 def save(data):
     """Save data in a json."""
@@ -22,5 +23,9 @@ def save(data):
             count += 1
         else:
             format_data.append({f"choice": val})
-    with open("data/data.json", "w", encoding="utf-8") as file:
+    file_name = "data/"
+    date = datetime.date.today()
+    time = datetime.time()
+    file_name += date.isoformat() + time.strftime("HH-MM-SS") + ".json"
+    with open(file_name, "w", encoding="utf-8") as file:
         json.dump(format_data, file, ensure_ascii=False, indent=4)
