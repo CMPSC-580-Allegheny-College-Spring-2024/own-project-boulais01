@@ -14,8 +14,6 @@
 
 ## Introduction
 
-TODO: Introduce the proposed project, providing a concise summary of the project goals, its key elements, offering the reader a quick understanding of the research's scope. The section continues to outline the main topics, research questions, hypotheses, and /or theories in a clear and meaningful language to provide a type of roadmap for the reader to navigate the forthcoming details of the project. This section also needs to motivate the project by providing context for the study, outlining the current state of knowledge in the field, and highlighting any gaps or limitations in existing research. The section serves as a foundational guide that enables the reader to grasp the context of the study, in addition to its structure, before moving into a more technically-based discussion in the following sections of the article. In short, the "Introduction" section needs to answer the `what` and `why` questions, that is `what is the project?` and `why is the project important?`
-
 The proposed project is an analysis of several factors revolving around
 decision-making in a narrative game. Specifically, this will analyze the time it
 takes to make a choice alongside the placement of the mouse, and for what
@@ -29,12 +27,10 @@ part three being the analysis of the data collected from a study of players
 making choices tracked by part one during play of part two. The game and
 tracking are planned to be implemented through use of the module
 [`pygame`](https://www.pygame.org/docs/).
+The demo included will be a sample draft of mouse movement tracking in a
+`pygame` implementation.
 
 ## Literature Review
-
-TODO (10 source minimum, with 5 of those being published peer-reviewed articles): Conduct literature review by describing relevant work related to the project and hence providing an overview of the state of the art in the area of the project. This section serves to contextualize the study within the existing body of literature, presenting a thorough review of relevant prior research and scholarly contributions. In clear and meaningful language, this section aims to demonstrate the problems, gaps, controversies, or unanswered questions that are associated with the current understanding of the topic. In addition, this section serves to highlight the current study's unique contribution to the field. By summarizing and critiquing existing works, this section provides a foundation for readers to appreciate the novelty and significance of the study in relation to the broader academic discourse. The "Literature Review" section further (in detail) contributes to the `why is the project important?` question.
-
-Articles:
 
 - [Predicting choice behaviour in economic games using gaze data encoded as scanpath images](https://pubmed.ncbi.nlm.nih.gov/36959330/)
 
@@ -216,7 +212,24 @@ aspect of this work.
 
 ## Prototype
 
-TODO: Discuss the methods of the project to be able to answer the `how` question (`how was this project completed?`). For this section, you must describe  the methodology behind your implemented prototype. The methods section in an academic research outlines the specific procedures, techniques, and methodologies employed to conduct the study, offering a transparent and replicable framework for the research. It details the resources behind the work, in terms of, for example, the design of the algorithm and the experiment(s), data collection methods, applied software libraries, required tools, the types of statistical analyses and models which are applied to ensure the rigor and validity of the study. This section provides clarity for other researchers to understand and potentially replicate the study, contributing to the overall reliability and credibility of the research findings.
+Currently, the prototype is run from the command line,
+where it executes the simple game created in `pygame`,
+collects time, choice, and mouse location information,
+and displays a limited form of that. Due to the nature
+of the prototype, the data included in this
+repository stems from testing the most recent
+implementation of the tool, as well as the first `json`
+created in an initial trial with an earlier draft of
+the code. The data is collected using a wrapper to
+collect time, and `yield` statements to collect the
+state throughout the game as well as the choices made.
+It is stored and displayed using a `json` file.
+This project makes use of not only the `pygame` and
+`json` modules, but also `typing`, `typer`, `rich`,
+`datetime`, and `time`. All of these dependencies are
+handled through `poetry` as outlined in the prototype
+explanation in the `src` folder. As of yet, no data
+processing is completed with the data.
 
 ## Preliminary Results and Outcomes
 
