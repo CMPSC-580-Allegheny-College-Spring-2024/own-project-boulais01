@@ -241,7 +241,8 @@ Example game pages:
 
 The artifact currently demonstrates the potential
 viability of the `pygame` module in the completion
-of parts one and two of the proposed project. It
+of parts one and two of the proposed project. Currently,
+it has only been tested on a Windows OS. It
 also collects a small portion of preliminary data
 as part of that, indicating the potential executions
 of part three of the proposed project. The results
