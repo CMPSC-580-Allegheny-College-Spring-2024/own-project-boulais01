@@ -1,12 +1,23 @@
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/2OGTtL0Y)
+
 # Junior Seminar (CMPSC 580) Own Project Repository
 
 ## Semester: Spring 2024
 
 ## Final Proposal and Prototype DUE: by 11:59PM on 3 May 2024
 
-This repository contains materials for the proposed project of your own idea, including project proposal with references to literature related to the proposed project, and the implemented prototype with data, if relevant, and all steps necessary to run the prototype. Your project proposal is to be written in the `project_proposal.md` document and must contain all sections provided in the `project_proposal.md` template and described below.
+This repository contains materials for the proposed project of your own idea,
+including project proposal with references to literature related to the proposed
+project, and the implemented prototype with data, if relevant, and all steps
+necessary to run the prototype. Your project proposal is to be written in the
+`project_proposal.md` document and must contain all sections provided in the
+`project_proposal.md` template and described below.
 
-Please make sure that your project relates to your major. Please consult departmental faculty as necessary during their office hours about your project. The following are baseline outcomes/products expected for each major. Computer Science majors following "old" curriculum (academic bulletin prior to 2023), can select a project in CMPSC, DS, or SE areas.
+Please make sure that your project relates to your major. Please consult
+departmental faculty as necessary during their office hours about your project.
+The following are baseline outcomes/products expected for each major. Computer
+Science majors following "old" curriculum (academic bulletin prior to 2023),
+can select a project in CMPSC, DS, or SE areas.
 
 - CMPSC: integration of theory and practice OR integration of hardware and software
 - DS: dashboard that utilizes machine learning with big data (application-focused) OR a comprehensive extension of an existing framework of data analysis (method-focused)
@@ -38,19 +49,37 @@ To complete this assignment, you are required to:
 
 ### Prototype
 
-While the proof-of-concept prototype does not have to fully implement the artifact of the proposed project, it needs to contribute to the project goals and it must clearly demonstrate the feasibility of the project. The prototype needs to also produce some results that you can examine and discuss. For example, if you propose a creation of a specific software, your proof-of-concept prototype might implement some but not all of its features. Then, you can conduct evaluation (e.g., testing) and small set of experiments to produce preliminary results for discussion.
+While the proof-of-concept prototype does not have to fully implement the
+artifact of the proposed project, it needs to contribute to the project
+goals and it must clearly demonstrate the feasibility of the project.
+The prototype needs to also produce some results that you can examine and
+discuss. For example, if you propose a creation of a specific software, your
+proof-of-concept prototype might implement some but not all of its features.
+Then, you can conduct evaluation (e.g., testing) and small set of experiments
+to produce preliminary results for discussion.
 
 ### Prototype Demo Video
 
-A 1-2 minute video (in an MP4 format) demonstrating key features of your developed prototype must be  submitted by the final project deadline via the provided [Google Form](https://forms.gle/7UebHZU4CFzfTrY57).
+A 1-2 minute video (in an MP4 format) demonstrating key features of your
+developed prototype must be submitted by the final project deadline via
+the provided [Google Form](https://forms.gle/7UebHZU4CFzfTrY57).
 
 ### Project Proposal
 
-The project proposal needs to contain the following five sections: _Introduction_, _Literature Review_, _Prototype_, _Preliminary Results and Outcomes_, and _Conclusions and Future Work_. The requirements of these sections is detailed in the "Assessment" section below and additional information can  be found in the `project_proposal.md` document.
+The project proposal needs to contain the following five sections:
+_Introduction_, _Literature Review_, _Prototype_,
+_Preliminary Results and Outcomes_, and _Conclusions and Future Work_. The
+requirements of these sections is detailed in the "Assessment" section below and
+additional information can  be found in the `project_proposal.md` document.
 
 ### Project Pitch
 
-Prepare three slides on your proposed project in the [Google Slides Deck](https://docs.google.com/presentation/d/154V9XquBwLsIVaasJO24e4KglLS9eeVW5e-3mX2OjWc/edit?usp=sharing). Your presentation should describe your proposed project, its goals and motivation behind it, state-of-the-art in the area of your proposed project, your developed prototype and how it demonstrates project feasibility, and future steps to complete the proposed project.
+Prepare three slides on your proposed project in the
+[Google Slides Deck](https://docs.google.com/presentation/d/154V9XquBwLsIVaasJO24e4KglLS9eeVW5e-3mX2OjWc/edit?usp=sharing).
+Your presentation should describe your proposed project, its goals and motivation
+behind it, state-of-the-art in the area of your proposed project, your developed
+prototype and how it demonstrates project feasibility, and future steps to
+complete the proposed project.
 
 ---
 
@@ -62,69 +91,69 @@ requirements and it is expected that an exceptional project will exceed
 these requirements.
 
 - **General Project Requirements**
-  - [ ] The project prototype and proposal were submitted on time on GitHub
-  - [ ] The pitch slides were submitted on time via the [Google Slides](https://docs.google.com/presentation/d/154V9XquBwLsIVaasJO24e4KglLS9eeVW5e-3mX2OjWc/edit?usp=sharing)
-  - [ ] The prototype demo video was submitted on time via the [Google Form](https://forms.gle/7UebHZU4CFzfTrY57)
-  - [ ] The GitHub repository of the project contains evidence of many commits (multiple commits each week)
-    - [ ] The GitHub repository of the project has a passing build status in GitHub Actions
-  - [ ] The proposal has the correct format created through the use of Markdown and includes the sections outlined in the provided template
-  - [ ] The title of the project is both interesting and appropriate
-  - [ ] The project proposal cites at least ten references, with five references being published, peer-reviewed articles
-  - [ ] The project proposal consists of at least `2000` words
-  - [ ] The project proposal follows a logical flow at the level of sections,
+  - [X] The project prototype and proposal were submitted on time on GitHub
+  - [X] The pitch slides were submitted on time via the [Google Slides](https://docs.google.com/presentation/d/154V9XquBwLsIVaasJO24e4KglLS9eeVW5e-3mX2OjWc/edit?usp=sharing)
+  - [X] The prototype demo video was submitted on time via the [Google Form](https://forms.gle/7UebHZU4CFzfTrY57)
+  - [X] The GitHub repository of the project contains evidence of many commits (multiple commits each week)
+    - [X] The GitHub repository of the project has a passing build status in GitHub Actions
+  - [X] The proposal has the correct format created through the use of Markdown and includes the sections outlined in the provided template
+  - [X] The title of the project is both interesting and appropriate
+  - [X] The project proposal cites at least ten references, with five references being published, peer-reviewed articles
+  - [X] The project proposal consists of at least `2000` words
+  - [X] The project proposal follows a logical flow at the level of sections,
     subsections, and individual paragraphs
-  - [ ] The project proposal includes appropriate visual aids, which fall under the broad
+  - [X] The project proposal includes appropriate visual aids, which fall under the broad
     categories of:
   * `image`
   * `figure`
   * `table`
   * `graph`
-  - [ ] The project proposal highlights and explains the societal impacts and ethical
+  - [X] The project proposal highlights and explains the societal impacts and ethical
     implications of the completed research
-  - [ ] There are no typographical or grammatical errors in the proposal
-  - [ ] There is no extraneous text in the proposal
-  - [ ] Prototype contains a README outlining its key features, software and  hardware requirements needed to use the prototype, and steps necessary to run the prototype
-  - [ ] Prototype works as intended
-  - [ ] Prototype's implementation contains appropriate documentation (comments)
+  - [X] There are no typographical or grammatical errors in the proposal
+  - [X] There is no extraneous text in the proposal
+  - [X] Prototype contains a README outlining its key features, software and  hardware requirements needed to use the prototype, and steps necessary to run the prototype
+  - [X] Prototype works as intended
+  - [X] Prototype's implementation contains appropriate documentation (comments)
 
 The project proposal is required to contain the following five sections:
 
 - **Introduction Section Requirements**
-  - [ ] The introduction section clearly describes the proposed project
-  - [ ] The introduction section motivates the proposed project work
-  - [ ] The introduction section contains specific project goals and/or research questions that the project aims to answer
+  - [X] The introduction section clearly describes the proposed project
+  - [X] The introduction section motivates the proposed project work
+  - [X] The introduction section contains specific project goals and/or research questions that the project aims to answer
 
 - **Related Work Section Requirements**
-  - [ ] The related work section references and describes relevant literature
-  - [ ] The related work section contains concise, scholarly review of the literature
+  - [X] The related work section references and describes relevant literature
+  - [X] The related work section contains concise, scholarly review of the literature
   explaining the background to the proposed research
-  - [ ] The related work section explains how relevant literature connects to the proposed project and provides the context for the aims of the proposed project in relation to existing work on the topic
-  - [ ] The related work section does not provide a "laundry list" of the related literature
-  - [ ] The related work section situates the proposed project in the broader scope
+  - [X] The related work section explains how relevant literature connects to the proposed project and provides the context for the aims of the proposed project in relation to existing work on the topic
+  - [X] The related work section does not provide a "laundry list" of the related literature
+  - [X] The related work section situates the proposed project in the broader scope
 
 - **Prototype Section Requirements**
-  - [ ] The prototype section explains the process utilized in the completed study
-  - [ ] The prototype section addresses as many of the necessary methodology used in the prototype development. For example, the following may be relevant to the project:
+  - [X] The prototype section explains the process utilized in the completed study
+  - [X] The prototype section addresses as many of the necessary methodology used in the prototype development. For example, the following may be relevant to the project:
   * `description of algorithms`
   * `programming languages`
   * `libraries`
   * `platforms`
   * `software tools`
   * `hardware`
-  - [ ] The prototype section explains how the developed proof-of-concept prototype demonstrates project feasibility (given your prototype, how can we be sure that the full artifact of the proposed project can  be successfully completed by you in two semesters)
+  - [X] The prototype section explains how the developed proof-of-concept prototype demonstrates project feasibility (given your prototype, how can we be sure that the full artifact of the proposed project can  be successfully completed by you in two semesters)
 
 - **Preliminary Results and Outcomes Section Requirements**
-  - [ ] The preliminary results and outcomes section describes how the work is validated
-  - [ ] The preliminary results and outcomes results section includes a description of experiments
+  - [X] The preliminary results and outcomes section describes how the work is validated
+  - [X] The preliminary results and outcomes results section includes a description of experiments
     such that a reader should be able to reproduce them or other results/outcomes as relevant to the prototype
-  - [ ] The preliminary results and outcomes contains at least one graph, table of data, or
+  - [X] The preliminary results and outcomes contains at least one graph, table of data, or
     some other relevant presentation of the results from the experimental study
 
 - **Conclusions and Future Work Section Requirements**
-  - [ ] The conclusions and future Work section provides a summary of the proposed research and its preliminary outcomes
-  - [ ] The conclusions and future Work section discusses the impact of the proposed research project
-  - [ ] The conclusions and future Work outlines, with sufficient depth and detail, further and future work that is necessary to fully complete the proposed project
-  - [ ] The conclusions and future Work includes an literature/evidence- or results-based appraisal of ethical issues related to the proposed research
+  - [X] The conclusions and future Work section provides a summary of the proposed research and its preliminary outcomes
+  - [X] The conclusions and future Work section discusses the impact of the proposed research project
+  - [X] The conclusions and future Work outlines, with sufficient depth and detail, further and future work that is necessary to fully complete the proposed project
+  - [X] The conclusions and future Work includes an literature/evidence- or results-based appraisal of ethical issues related to the proposed research
 
 ## GatorGrade
 
